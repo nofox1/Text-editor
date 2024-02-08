@@ -1,0 +1,10 @@
+{
+  "name": "Jate",
+  "short_name": "Jate",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "Text Editor!",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
